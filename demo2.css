@@ -2,6 +2,7 @@ body {
     color: white;
 }
 
+
 .GT-button{
     background-color:rgb(200, 0, 0);
     color:white;
@@ -93,8 +94,8 @@ body {
     margin: 0;
     padding: 0;
 }
-.background-image{
-    background-image: url('nature2.jpg');
+.background-i{
+    background-image: url(nyt.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
