@@ -42,3 +42,20 @@ body{
 .bt2:hover{
     opacity: 0.5;
 }
+
+.bt3{
+    background-color: rgb(240, 3, 3);
+    color:azure;
+    border: none;
+    border-radius: 5px;
+    height: 34px;
+    width: 98px;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: opacity 0.5s;
+}
+
+.bt3:hover{
+    opacity: 0.5;
+}
